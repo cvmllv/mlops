@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+onnxruntime
+python-multipart
+mlflow
+onnx
